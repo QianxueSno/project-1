@@ -26,4 +26,8 @@ body {
   top: 0;
   position: fixed;
   z-index: initial;
+  opacity:1;
+}
+nav.dms.hover:{
+  opacity:0.3;
 }
