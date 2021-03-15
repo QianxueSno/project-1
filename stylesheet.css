@@ -13,7 +13,7 @@ body {
   }
 
   div.exercises{
-    font-family:'Noto Sans';
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 30px;
     margin-top: 10px;
     margin-left: 110px;
