@@ -27,6 +27,7 @@ body {
   position: fixed;
   z-index: initial;
   opacity:1;
+  line-height: 0.1;
 }
 nav div a{
   opacity:1;
