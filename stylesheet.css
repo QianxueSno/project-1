@@ -3,3 +3,9 @@ body {
   background-image:url("image/wall2.png");
   background-size: cover;
   }
+
+
+  .title {
+    margin-left:620px;
+    top: 30px;
+  }
