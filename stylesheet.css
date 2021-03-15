@@ -12,10 +12,10 @@ body {
   }
 
   h1 {
-  font-family:'Noto Sans', sans-serif;
+  font-family:'Noto Sans';
   font-size: 38px;
   margin-top: 210px;
-  margin-left: 50px;
+  margin-left: 150px;
   color:rgb(0, 107, 49);
 }
 
