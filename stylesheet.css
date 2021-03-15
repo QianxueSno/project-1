@@ -1,4 +1,3 @@
-.class-for-index{
 
 body {
   background-color: white;
@@ -37,7 +36,7 @@ nav div a{
 nav div a:hover{
   opacity:0.6;
 }
-}
+
 
 .class-for-about{
   body {
