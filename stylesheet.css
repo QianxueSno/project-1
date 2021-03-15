@@ -19,6 +19,14 @@ body {
   margin-left: 110px;
   color:rgb(0, 107, 49);
 }
+
+div.exercises{
+  font-family:'Noto Sans';
+  font-size: 30px;
+  margin-top: 200px;
+  margin-left: 110px;
+  color:rgb(0, 107, 49);
+}
 /* NAVIGATION */
   nav.dms {
   margin-top: 50px;
