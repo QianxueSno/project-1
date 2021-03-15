@@ -18,7 +18,7 @@ body {
   margin-left: 180px;
   color:rgb(0, 107, 49);
 }
-
+/* NAVIGATION */
   nav.dms {
   margin-top: 50px;
   margin-left: 1100px;
@@ -27,8 +27,7 @@ body {
   position: fixed;
   z-index: initial;
   opacity:1;
-  hover:opacity:0.3
 }
-nav.dms.hover{
+nav div{
   opacity:0.3;
 }
