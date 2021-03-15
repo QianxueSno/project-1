@@ -1,0 +1,47 @@
+
+body {
+  background-color: white;
+  background-image:url("image/zjda3.jpg");
+  background-size: cover;
+  }
+
+
+  .title {
+    margin-top: 10px;
+    margin-left: 6px;
+    z-index: auto;
+  }
+
+  h1 {
+  font-family:'Noto Sans';
+  font-size: 30px;
+  margin-top: 200px;
+  margin-left: 180px;
+  color:rgb(0, 107, 49);
+}
+/* NAVIGATION */
+  nav.dms {
+  margin-top: 50px;
+  margin-left: 1200px;
+  font-size: 50px;
+  top: 0;
+  position: fixed;
+  z-index: initial;
+  opacity:1;
+  line-height: 0.1;
+}
+nav div a{
+  opacity:1;
+}
+nav div a:hover{
+  opacity:0.6;
+}
+
+
+.class-for-about{
+  body {
+    background-color: white;
+    background-image:url("image/zjda3.jpg");
+    background-size: cover;
+    }
+}
