@@ -31,7 +31,7 @@ body {
   line-height: 0.1;
 }
 nav div a{
-  opacity:0.8;
+  opacity:0.6;
 }
 nav div a:hover{
   opacity:1.5;
