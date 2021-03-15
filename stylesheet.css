@@ -8,6 +8,7 @@ body {
   .title {
     margin-top: 10px;
     margin-left: 6px;
+    z-index: auto;
   }
 
   h1 {
