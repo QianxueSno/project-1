@@ -22,6 +22,14 @@ body {
     position: absolute;
   }
 
+  .intro {
+  font-family:'Noto Sans';
+  font-size: 30px;
+  margin-top: 145px;
+  margin-left: 110px;
+  color:rgb(0, 107, 49);
+}
+
   h1 {
   font-family:'Noto Sans';
   font-size: 30px;
