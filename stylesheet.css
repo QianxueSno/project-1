@@ -23,7 +23,7 @@ body {
   }
 
   .intro {
-  font-family:'Noto Sans';
+  font-family: 'Noto Sans TC', sans-serif;
   font-size: 30px;
   margin-top: 105px;
   margin-left: 110px;
