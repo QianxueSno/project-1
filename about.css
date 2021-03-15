@@ -19,6 +19,12 @@ body {
   margin-left: 180px;
   color:rgb(0, 107, 49);
 }
+
+.about{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size:20px;
+    max-width: 300px;
+}
 /* NAVIGATION */
   nav.dms {
   margin-top: 30px;
