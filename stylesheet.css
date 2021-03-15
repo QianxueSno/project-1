@@ -28,6 +28,6 @@ body {
   z-index: initial;
   opacity:1;
 }
-nav.dms.hover:{
+nav.dms.hover{
   opacity:0.3;
 }
