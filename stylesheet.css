@@ -1,3 +1,5 @@
 body {
-  background: linear-gradient(black, white);
-}
+  background-color: white;
+  background-image:url("image/wall.jpg");
+  background-size: contain;
+  }
