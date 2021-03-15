@@ -27,7 +27,7 @@ div.exercises{
   margin-left: 110px;
   color:rgb(0, 107, 49);
   z-index: 10;
-  position: fixed;
+  position: absolute;
 }
 /* NAVIGATION */
   nav.dms {
