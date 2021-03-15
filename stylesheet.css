@@ -1,3 +1,5 @@
+.class-for-index{
+
 body {
   background-color: white;
   background-image:url("image/erhai.jpg");
@@ -34,4 +36,13 @@ nav div a{
 }
 nav div a:hover{
   opacity:0.6;
+}
+}
+
+.class-for-about{
+  body {
+    background-color: white;
+    background-image:url("image/zjda3.jpg");
+    background-size: cover;
+    }
 }
