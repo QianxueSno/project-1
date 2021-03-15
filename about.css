@@ -48,11 +48,6 @@ nav div a:hover{
   opacity:1;
 }
 
-
-.class-for-about{
-  body {
-    background-color: white;
-    background-image:url("image/zjda3.jpg");
-    background-size: cover;
-    }
+.photo {
+  margin-left: 20px;
 }
