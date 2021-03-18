@@ -11,12 +11,6 @@ position:fixed;
 z-index: 0;
 }
 
-  .title {
-    margin-top: 10px;
-    margin-left: 50px;
-    z-index: 2;
-  }
-
   div.exercises{
     font-family: 'Noto Sans TC', sans-serif;
     font-size: 30px;
