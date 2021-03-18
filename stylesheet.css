@@ -32,6 +32,7 @@ left: 20px;
   margin-top: 70px;
   margin-left: 110px;
   line-height: 1.4;
+  z-index: 12;
 }
 
   h1 {
