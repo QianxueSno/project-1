@@ -11,7 +11,9 @@ top: 150px;
 position:fixed;
 z-index: 0;
 }
-
+.cangshan a:hover{
+opacity: 0.5;
+}
 .erhai{
 left: 900px;
 top: 300px;
