@@ -12,6 +12,13 @@ position:fixed;
 z-index: 0;
 }
 
+.erhai{
+left: 400px;
+top: 100px;
+position:fixed;
+z-index: 0;
+}
+
 .title{
 left: 20px;
 z-index: 3;
