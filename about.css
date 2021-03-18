@@ -28,6 +28,7 @@ body {
     max-width: 700px;
     margin-left: 100px;
     color: #303fd8；
+    position: absolute;
 }
 
 h2 {
