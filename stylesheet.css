@@ -8,12 +8,13 @@ body {
 .cangshan{
 left: 20px;
 position:fixed;
+z-index: 0;
 }
 
   .title {
     margin-top: 10px;
     margin-left: 50px;
-    z-index: auto;
+    z-index: 2;
   }
 
   div.exercises{
