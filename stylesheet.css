@@ -72,6 +72,7 @@ position: relative;
 }
 nav div a{
   opacity:0.6;
+  width: 420px;
 }
 nav div a:hover{
   opacity:1.5;
