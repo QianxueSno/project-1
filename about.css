@@ -30,6 +30,15 @@ body {
     color: #303fd8；
 }
 
+h2 {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size:20px;
+  max-width: 700px;
+  margin-left: 100px;
+  color: #303fd8；
+}
+
+
 /* NAVIGATION */
   nav.dms {
   margin-top: 30px;
