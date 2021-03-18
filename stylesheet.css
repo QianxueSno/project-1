@@ -6,8 +6,8 @@ body {
   }
 
 .cangshan{
-position: absolute;
 left: 20px;
+position:fixed;
 }
 
   .title {
