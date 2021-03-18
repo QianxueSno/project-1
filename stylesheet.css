@@ -7,7 +7,7 @@ body {
 
 .cangshan{
 left: 100px;
-top: 150px;
+top: 170px;
 position:fixed;
 z-index: 0;
 }
@@ -19,7 +19,7 @@ opacity: 0.5;
 }
 .erhai{
 left: 900px;
-top: 300px;
+top: 400px;
 position:fixed;
 z-index: 0;
 }
