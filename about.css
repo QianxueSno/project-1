@@ -18,11 +18,12 @@ body {
 
 .about{
     font-family: 'Noto Sans TC', sans-serif;
-    font-size:50px;
+    font-size:  18px;
     max-width: 700px;
     margin-top: 80px;
     margin-left: 450px;
     color: #303fd8；
+    line-height: 1.4;
 }
 
 
