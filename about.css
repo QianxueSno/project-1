@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  background-image:url("image/beiabout.png");
+  background-image:url("image/wall3.png");
   background-repeat: repeat-y;
   }
 
@@ -73,7 +73,8 @@ text-align: center;
 
 p{
   line-height: 1;
-  font-size: 20pxl
+  font-size: 2
+
 }
 /* NAVIGATION */
   nav.dms {
