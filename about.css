@@ -70,6 +70,26 @@ margin: 0;
 text-align: center;
 }
 
+.photo{
+    position:fixed;
+    z-index:9999;
+    background:rgba(0,0,0,0.8) no-repeat none 50%/contain;
+    box-shadow:0 0 0 3000px rgba(0,0,0,0.8);
+    opacity:0; visibility:hidden;
+}
+.photo.on{
+    opacity:1; visibility:visible;
+    height:90% !important; width:90% !important;
+    left:5% !important; top:5% !important;
+}
+.photo:after{
+    position:absolute;
+    right:0; top:0;
+    font-size:2em;
+    content:"\2A2F";
+    color:#fff;
+    cursor:pointer;
+}
 /* NAVIGATION */
   nav.dms {
   font-family: 'Noto Sans TC', sans-serif;
