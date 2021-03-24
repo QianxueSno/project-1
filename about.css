@@ -63,7 +63,7 @@ span{
   transform: scale(1.27);
   -ms-transform: scale(1.27); /* IE 9 */
   -webkit-transform: scale(1.27); /* Safari and Chrome */
-  margin-left: 20px;
+  margin-left: 90px;
 
   body, html {
 padding: 0;
