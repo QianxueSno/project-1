@@ -46,7 +46,7 @@ z-index: 0;
   position: fixed;
   z-index: 30;
   opacity:1;
-  line-height: 1;
+  line-height: 0.8;
    width:500px;
    background-color: rgba(249,249,249,0)
 }
