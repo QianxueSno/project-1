@@ -69,6 +69,7 @@ position: relative;
   z-index: 30;
   opacity:1;
   line-height: 0.1;
+   width:420px;
 }
 nav div a{
   opacity:0.6;
