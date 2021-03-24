@@ -52,7 +52,7 @@ span{
   vertical-align: middle;
 }
 
-.photo a :hover{
+.photo:hover{
     color: #424242;
   -webkit-transition: all .3s ease-in;
   -moz-transition: all .3s ease-in;
