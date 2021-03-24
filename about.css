@@ -43,8 +43,6 @@ h1 {
 }
 
 h3 {
-  font-family: 'Noto Sans TC', sans-serif;
-  margin-left: 15px;
   z-index: auto;
   color:blue;
   position:fixed;
