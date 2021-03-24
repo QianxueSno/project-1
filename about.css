@@ -41,7 +41,6 @@ h1 {
     margin-left: 90px;
     color: #303fd8；
     line-height: 1.4;
-    display: flex;
 }
 
 h3 {
@@ -49,6 +48,9 @@ h3 {
   font-size: 20px;
 }
 
+span{
+  vertical-align: middle;
+}
 
 /* NAVIGATION */
   nav.dms {
