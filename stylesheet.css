@@ -78,3 +78,8 @@ nav div a:hover{
   opacity:1.5;
   width: 520px;
 }
+
+.famhis{
+  background-color: #333;
+  overflow: hidden;
+}
