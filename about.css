@@ -43,7 +43,6 @@ h1 {
 }
 
 h3 {
-  z-index: auto;
   color:blue;
   position:fixed;
   font-size: 20px;
