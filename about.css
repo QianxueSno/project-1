@@ -50,23 +50,23 @@ z-index: 0;
   nav.dms {
   font-family: 'Noto Sans TC', sans-serif;
   margin-top: 50px;
-  margin-left: 1250px;
-  font-size: 40px;
+  margin-left: 1230px;
+  font-size: 50px;
   top: 0;
   position: fixed;
   z-index: 30;
   opacity:1;
   line-height: 1;
-   width:500px;
+   width:530px;
    background-color: rgba(249,249,249,0)
 }
 nav div a{
   opacity:0.6;
-  width: 300px;
+  width: 400px;
 }
 nav div a:hover{
   opacity:1.5;
-  width: 150px;
+  width: 200px;
 }
 
 .dms{
@@ -79,9 +79,9 @@ nav div a:hover{
   float: right;
   color: blue;
   text-align: center;
-  padding:35px 45px;
+  padding:42px 55px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 25px;
   border: 0.1px solid blue;
    border-radius: 50px;
 }
@@ -89,7 +89,7 @@ nav div a:hover{
   background-color: rgba(249,249,249,0.6);
   color: blue;
   opacity: 0.6;
-  font-size: 30px;
+  font-size: 35px;
 }
 
 .famhis a:hover {
