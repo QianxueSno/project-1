@@ -71,7 +71,7 @@ position: relative;
   opacity:1;
   line-height: 1;
    width:530px;
-  text-decoration: none;
+   background-color: rgba(249,249,249,0)
 }
 nav div a{
   opacity:0.6;
