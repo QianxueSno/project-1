@@ -71,7 +71,10 @@ margin: 0;
 text-align: center;
 }
 
-
+p{
+  line-height: 1;
+  
+}
 /* NAVIGATION */
   nav.dms {
   font-family: 'Noto Sans TC', sans-serif;
