@@ -98,7 +98,7 @@ nav div a:hover{
    border-radius: 50px;
 }
 .dms a:hover {
-  background-color: white;
+  background-color: rgba(249,249,249,0.6);
   color: blue;
   opacity: 0.6;
 }
