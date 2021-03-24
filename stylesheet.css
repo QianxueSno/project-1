@@ -81,13 +81,13 @@ nav div a:hover{
   width: 300px;
 }
 
-.famhis{
+.dms{
   background-color: white;
   opacity: 1;
   overflow: hidden;
 
 }
-.famhis a {
+.dms a {
   float: right;
   color: blue;
   text-align: center;
@@ -97,12 +97,12 @@ nav div a:hover{
   border: 0.1px solid blue;
    border-radius: 50px;
 }
-.famhis a:hover {
+.dms a:hover {
   background-color: white;
   color: blue;
   opacity: 0.6;
 }
 
-.famhis a:hover {
+.dms a:hover {
   border: 0.1px solid blue;
 }
