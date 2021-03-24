@@ -104,6 +104,7 @@ nav div a:hover{
   color: blue;
   opacity: 0.6;
   font-size: 35px;
+  duration: 1s;
 }
 
 .famhis a:hover {
