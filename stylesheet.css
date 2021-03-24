@@ -89,13 +89,13 @@ nav div a:hover{
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 24px 35px;
   text-decoration: none;
   font-size: 50px;
 }
 .famhis a:hover {
   background-color: #ddd;
-  color: black;
+  color: white;
 }
 .famhis a.active {
   background-color: #4CAF50;
