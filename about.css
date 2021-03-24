@@ -1,6 +1,7 @@
 body {
   background-color: white;
   background-image:url("image/beiabout.png");
+  background-repeat: repeat-y;
   }
 
 
