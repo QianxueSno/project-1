@@ -82,7 +82,7 @@ nav div a:hover{
 }
 
 .dms{
-  background-color: white;
+  background-color: rgba(249,249,249,0.5);
   opacity: 1;
   overflow: hidden;
 
@@ -103,6 +103,6 @@ nav div a:hover{
   opacity: 0.6;
 }
 
-.dms a:hover {
+.famhis a:hover {
   border: 0.1px solid blue;
 }
