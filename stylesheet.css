@@ -96,7 +96,7 @@ nav div a:hover{
   font-size: 30px;
 }
 .famhis a:hover {
-  background-color: #ddd;
+  background-color: green;
   color: white;
 }
 .famhis a.active {
