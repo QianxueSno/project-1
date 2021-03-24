@@ -99,6 +99,11 @@ nav div a:hover{
   background-color: green;
   color: white;
 }
+
+.famhis [type="text"]:hover {
+  border: 1px solid yellow;
+}
+
 .famhis a.active {
   background-color: green;
   color: green;
