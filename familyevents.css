@@ -1,8 +1,9 @@
+
 body {
   background-color: white;
   background-image:url("image/wall3.png");
+  background-size: cover;
   }
-
 
   .erhai{
   left: 900px;
