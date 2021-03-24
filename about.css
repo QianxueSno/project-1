@@ -52,17 +52,6 @@ span{
   vertical-align: middle;
 }
 
-.photo:hover{
-    color: #424242;
-  -webkit-transition: all .3s ease-in;
-  -moz-transition: all .3s ease-in;
-  -ms-transition: all .3s ease-in;
-  -o-transition: all .3s ease-in;
-  transition: all .3s ease-in;
-  opacity: 1;
-  transform: scale(1.27);
-  -ms-transform: scale(1.27); /* IE 9 */
-  -webkit-transform: scale(1.27); /* Safari and Chrome */
 
   body, html {
 padding: 0;
@@ -70,26 +59,22 @@ margin: 0;
 text-align: center;
 }
 
-.to{
-    position:fixed;
-    z-index:9999;
-    background:rgba(0,0,0,0.8) no-repeat none 50%/contain;
-    box-shadow:0 0 0 3000px rgba(0,0,0,0.8);
-    opacity:0; visibility:hidden;
+* {box-sizing: border-box;}
+
+.img-magnifier-container {
+  position: relative;
 }
-.to.on{
-    opacity:1; visibility:visible;
-    height:90% !important; width:90% !important;
-    left:5% !important; top:5% !important;
+
+.img-magnifier-glass {
+  position: absolute;
+  border: 3px solid #000;
+  border-radius: 50%;
+  cursor: none;
+  /*Set the size of the magnifier glass:*/
+  width: 100px;
+  height: 100px;
 }
-.to:after{
-    position:absolute;
-    right:0; top:0;
-    font-size:2em;
-    content:"\2A2F";
-    color:#fff;
-    cursor:pointer;
-}
+
 /* NAVIGATION */
   nav.dms {
   font-family: 'Noto Sans TC', sans-serif;
