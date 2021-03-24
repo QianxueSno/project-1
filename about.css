@@ -4,6 +4,13 @@ body {
   }
 
 
+  .erhai{
+  left: 900px;
+  top: 400px;
+  position:fixed;
+  z-index: 0;
+  }
+
   .intro {
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 18px;
@@ -43,12 +50,6 @@ h3 {
   color:blue;
   position:fixed;
   font-size: 30px;
-}
-.erhai{
-left: 900px;
-top: 400px;
-position:fixed;
-z-index: 0;
 }
 
 
