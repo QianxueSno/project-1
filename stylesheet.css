@@ -63,14 +63,14 @@ position: relative;
   nav.dms {
   font-family: 'Noto Sans TC', sans-serif;
   margin-top: 50px;
-  margin-left: 1080px;
+  margin-left: 1280px;
   font-size: 50px;
   top: 0;
   position: fixed;
   z-index: 30;
   opacity:1;
-  line-height: 0.1;
-   width:420px;
+  line-height: 1;
+   width:520px;
 }
 nav div a{
   opacity:0.6;
