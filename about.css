@@ -60,9 +60,9 @@ span{
   -o-transition: all .3s ease-in;
   transition: all .3s ease-in;
   opacity: 1;
-  transform: scale(1.28);
-  -ms-transform: scale(1.28); /* IE 9 */
-  -webkit-transform: scale(1.28); /* Safari and Chrome */
+  transform: scale(1.30);
+  -ms-transform: scale(1.30); /* IE 9 */
+  -webkit-transform: scale(1.30); /* Safari and Chrome */
   margin-left: 90px;
 
   body, html {
