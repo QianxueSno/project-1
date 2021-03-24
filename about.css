@@ -52,6 +52,17 @@ span{
   vertical-align: middle;
 }
 
+.photo:hover{
+    color: #424242;
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.27);
+  -ms-transform: scale(1.27); /* IE 9 */
+  -webkit-transform: scale(1.27); /* Safari and Chrome */
 
   body, html {
 padding: 0;
@@ -59,21 +70,6 @@ margin: 0;
 text-align: center;
 }
 
-* {box-sizing: border-box;}
-
-.img-magnifier-container {
-  position: relative;
-}
-
-.img-magnifier-glass {
-  position: absolute;
-  border: 3px solid #000;
-  border-radius: 50%;
-  cursor: none;
-  /*Set the size of the magnifier glass:*/
-  width: 100px;
-  height: 100px;
-}
 
 /* NAVIGATION */
   nav.dms {
