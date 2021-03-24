@@ -74,11 +74,11 @@ position: relative;
 }
 nav div a{
   opacity:0.6;
-  width: 520px;
+  width: 530px;
 }
 nav div a:hover{
   opacity:1.5;
-  width: 320px;
+  width: 530px;
 }
 
 .famhis{
