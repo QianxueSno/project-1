@@ -63,7 +63,6 @@ span{
   transform: scale(1.27);
   -ms-transform: scale(1.27); /* IE 9 */
   -webkit-transform: scale(1.27); /* Safari and Chrome */
-  align-items: center;
 
 }
 /* NAVIGATION */
