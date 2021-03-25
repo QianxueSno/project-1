@@ -115,9 +115,18 @@ nav.dms div a:hover{
    background-color: rgba(249,249,249,0)
 
 }
+
+.yy div a{
+  opacity:0.6;
+  width: 400px;
+}
+.yy div a:hover{
+  opacity:1.5;
+  width: 200px;
+}
+
 .yy{
   background-color: rgba(249,249,249,0.3);
   opacity: 1;
   overflow: hidden;
-
 }
