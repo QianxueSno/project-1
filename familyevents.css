@@ -98,6 +98,9 @@ nav.dms div a:hover{
   font-size: 35px;
 }
 
-.yeye {
-   border-radius: 20px;
+a {
+  color: red;
+  font-family: helvetica;
+  text-decoration: none;
+  text-transform: uppercase;
 }
