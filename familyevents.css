@@ -129,9 +129,6 @@ nav.dms div a:hover{
   background-color: rgba(249,249,249,0.3);
   opacity: 1;
   overflow: hidden;
-
-}
-.yy a {
   float: right;
   color: blue;
   text-align: center;
