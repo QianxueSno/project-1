@@ -129,7 +129,7 @@ nav.love  div a:hover{
   overflow: hidden;
 
 }
-.love  a {
+#love  a {
   float: right;
   color: blue;
   text-align: center;
@@ -139,7 +139,7 @@ nav.love  div a:hover{
   border: 0.1px solid blue;
    border-radius: 50px;
 }
-.love  a:hover {
+#love  a:hover {
   background-color: rgba(249,249,249,0.6);
   color: blue;
   opacity: 0.6;
