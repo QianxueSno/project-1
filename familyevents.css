@@ -106,7 +106,7 @@ nav.dms div a:hover{
 
 .yy {
   margin-left: 200px;
-  color: black;
+  color: white;
   text-decoration:none;
   font-family: 'Noto Sans TC', sans-serif;
   z-index: 29;
@@ -125,7 +125,7 @@ nav.dms div a:hover{
   opacity: 1;
   overflow: hidden;
   float: right;
-  color: blue;
+  color: black;
   text-align: left;
   padding:35px 55px;
   text-decoration: none;
