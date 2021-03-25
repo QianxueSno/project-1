@@ -99,8 +99,6 @@ nav.dms div a:hover{
 }
 /* SECOND*/
 
-.second{
-}
 
 .yy {
   margin-left: 90px;
@@ -112,7 +110,7 @@ nav.dms div a:hover{
   position: absolute;
   opacity:1;
   line-height: 1.2;
-  width:530px;
+  width:600px;
   background-color: rgba(249,249,249,0)
 
 }
