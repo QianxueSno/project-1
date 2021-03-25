@@ -71,11 +71,12 @@ margin: 0;
 text-align: center;
 }
 
-p{
+.ho{
   line-height: 1;
   font-size: 20px;
 }
-p:hover{
+
+.ho:hover{
   color: #424242;
 -webkit-transition: all .3s ease-in;
 -moz-transition: all .3s ease-in;
