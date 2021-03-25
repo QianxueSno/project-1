@@ -103,9 +103,7 @@ nav.dms div a:hover{
   margin: 90px;
 }
 
-a.yy {
+.yy {
   color: red;
-  font-family: helvetica;
   text-decoration: none;
-  text-transform: uppercase;
 }
