@@ -51,6 +51,55 @@ h3 {
 
 
 /* NAVIGATION */
+  nav.dms {
+  font-family: 'Noto Sans TC', sans-serif;
+  margin-top: 50px;
+  margin-left: 1230px;
+  font-size: 50px;
+  top: 0;
+  position: fixed;
+  z-index: 30;
+  opacity:1;
+  line-height: 1;
+   width:530px;
+   background-color: rgba(249,249,249,0)
+}
+nav.dms div a{
+  opacity:0.6;
+  width: 400px;
+}
+nav.dms div a:hover{
+  opacity:1.5;
+  width: 200px;
+}
+
+
+
+.dms{
+  background-color: rgba(249,249,249,0.3);
+  opacity: 1;
+  overflow: hidden;
+
+}
+.dms a {
+  float: right;
+  color: blue;
+  text-align: center;
+  padding:42px 55px;
+  text-decoration: none;
+  font-size: 30px;
+  border: 0.1px solid blue;
+   border-radius: 50px;
+}
+.dms a:hover {
+  background-color: rgba(249,249,249,0.6);
+  color: blue;
+  opacity: 0.6;
+  font-size: 35px;
+}
+
+
+/* NAVIGATION */
 a.schedule {
   font-family: 'Noto Sans TC', sans-serif;
   margin-top: 100px;
@@ -98,53 +147,4 @@ a.schedule div a:hover{
 
 .schedule a:hover {
   border: 0.1px solid blue;
-}
-
-
-/* NAVIGATION */
-  nav.dms {
-  font-family: 'Noto Sans TC', sans-serif;
-  margin-top: 50px;
-  margin-left: 1230px;
-  font-size: 50px;
-  top: 0;
-  position: fixed;
-  z-index: 30;
-  opacity:1;
-  line-height: 1;
-   width:530px;
-   background-color: rgba(249,249,249,0)
-}
-nav.dms div a{
-  opacity:0.6;
-  width: 400px;
-}
-nav.dms div a:hover{
-  opacity:1.5;
-  width: 200px;
-}
-
-
-
-.dms{
-  background-color: rgba(249,249,249,0.3);
-  opacity: 1;
-  overflow: hidden;
-
-}
-.dms a {
-  float: right;
-  color: blue;
-  text-align: center;
-  padding:42px 55px;
-  text-decoration: none;
-  font-size: 30px;
-  border: 0.1px solid blue;
-   border-radius: 50px;
-}
-.dms a:hover {
-  background-color: rgba(249,249,249,0.6);
-  color: blue;
-  opacity: 0.6;
-  font-size: 35px;
 }
