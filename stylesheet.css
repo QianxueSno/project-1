@@ -18,18 +18,6 @@ body {
   background-size: cover;
   }
 
-.cangshan{
-left: 100px;
-top: 170px;
-position:fixed;
-z-index: 0;
-}
-.cangshan a{
-opacity: 1;
-}
-.cangshan a:hover{
-opacity: 0.5;
-}
 .erhai{
 left: 900px;
 top: 430px;
