@@ -101,10 +101,10 @@ nav.dms div a:hover{
 
 
 /* NAVIGATION */
-  nav.s {
+  nav.dms {
   font-family: 'Noto Sans TC', sans-serif;
   margin-top: 50px;
-  margin-left: 1030px;
+  margin-left: 1230px;
   font-size: 50px;
   top: 0;
   position: fixed;
@@ -114,24 +114,24 @@ nav.dms div a:hover{
    width:530px;
    background-color: rgba(249,249,249,0)
 }
-nav.s div a{
+nav.dms div a{
   opacity:0.6;
   width: 400px;
 }
-nav.s div a:hover{
+nav.dms div a:hover{
   opacity:1.5;
   width: 200px;
 }
 
 
 
-.s{
+.dms{
   background-color: rgba(249,249,249,0.3);
   opacity: 1;
   overflow: hidden;
 
 }
-.s a {
+.dms a {
   float: right;
   color: blue;
   text-align: center;
@@ -141,7 +141,7 @@ nav.s div a:hover{
   border: 0.1px solid blue;
    border-radius: 50px;
 }
-.s a:hover {
+.dms a:hover {
   background-color: rgba(249,249,249,0.6);
   color: blue;
   opacity: 0.6;
