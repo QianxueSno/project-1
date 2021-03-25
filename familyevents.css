@@ -51,7 +51,7 @@ h3 {
 
 
 /* NAVIGATION */
-nav.schedule {
+a.schedule {
   font-family: 'Noto Sans TC', sans-serif;
   margin-top: 100px;
   margin-left: 200px;
@@ -64,11 +64,11 @@ nav.schedule {
    width:530px;
    background-color: rgba(249,249,249,0)
 }
-nav.schedule  div a{
+a.schedule  div a{
   opacity:0.6;
   width: 400px;
 }
-nav.schedule div a:hover{
+a.schedule div a:hover{
   opacity:1.5;
   width: 200px;
 }
