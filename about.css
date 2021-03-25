@@ -69,7 +69,15 @@ span{
 p{
   line-height: 1;
   font-size: 20px;
-
+}
+.love {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size:  20px;
+  max-width: 980px;
+  margin-top: 80px;
+  margin-left: 90px;
+  color: #303fd8；
+  line-height: 1.2;
 }
 /* NAVIGATION */
   nav.dms {
