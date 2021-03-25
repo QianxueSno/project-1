@@ -138,3 +138,24 @@ nav.dms div a:hover{
   opacity: 0.6;
   font-size: 35px;
 }
+
+
+.yy2{
+  background-color: rgba(249,249,249,0.3);
+  opacity: 1;
+  overflow: hidden;
+  float: right;
+  color: blue;
+  text-align: left;
+  padding:35px 55px;
+  text-decoration: none;
+  font-size: 25px;
+  border: 0.1px solid blue,0.;
+   border-radius: 50px;
+}
+.yy2:hover {
+  background-color: rgba(249,249,249,0.6);
+  color: blue;
+  opacity: 0.6;
+  font-size: 35px;
+}
