@@ -63,7 +63,7 @@ h3 {
   transform: scale(1.5);
   -ms-transform: scale(1.5); /* IE 9 */
   -webkit-transform: scale(1.5); /* Safari and Chrome */
-  margin-left: 150px;
+  margin-left: 150px;}
 
   body, html {
 padding: 0;
