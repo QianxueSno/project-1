@@ -99,11 +99,12 @@ nav.dms div a:hover{
 }
 
 
+
 /* NAVIGATION */
-.love {
+  nav.s {
   font-family: 'Noto Sans TC', sans-serif;
-  margin-top: 100px;
-  margin-left: 200px;
+  margin-top: 50px;
+  margin-left: 1030px;
   font-size: 50px;
   top: 0;
   position: fixed;
@@ -112,24 +113,25 @@ nav.dms div a:hover{
   line-height: 1;
    width:530px;
    background-color: rgba(249,249,249,0)
-   text-decoration:none;
 }
-a.love  div a{
+nav.s div a{
   opacity:0.6;
   width: 400px;
 }
-a.love div a:hover{
+nav.s div a:hover{
   opacity:1.5;
   width: 200px;
 }
 
-.love{
+
+
+.s{
   background-color: rgba(249,249,249,0.3);
   opacity: 1;
   overflow: hidden;
 
 }
-.love a {
+.s a {
   float: right;
   color: blue;
   text-align: center;
@@ -139,13 +141,9 @@ a.love div a:hover{
   border: 0.1px solid blue;
    border-radius: 50px;
 }
-.love a:hover {
+.s a:hover {
   background-color: rgba(249,249,249,0.6);
   color: blue;
   opacity: 0.6;
   font-size: 35px;
-}
-
-.love a:hover {
-  border: 0.1px solid blue;
 }
