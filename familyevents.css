@@ -115,3 +115,9 @@ nav.dms div a:hover{
    background-color: rgba(249,249,249,0)
 
 }
+.yy{
+  background-color: rgba(249,249,249,0.3);
+  opacity: 1;
+  overflow: hidden;
+
+}
