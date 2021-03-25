@@ -121,4 +121,5 @@ nav.dms div a:hover{
   color: blue;
   opacity: 0.6;
   font-size: 35px;
+  border: 0.1px solid white;
 }
