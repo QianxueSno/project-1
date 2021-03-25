@@ -24,21 +24,6 @@ position:fixed;
 z-index: 0;
 }
 
-*{margin:0; padding:0;}
-.display{
-  height:60px;
-  width:500px;
-  overflow:hidden;
-  position:relative;
-}
-.text{
-  cursor:pointer;
-  overflow:hidden;
-  position:absolute;
-  left:10px;
-  margin-right:10px;
-  top:10px;
-}
 
 .title{
 left: 40px;
