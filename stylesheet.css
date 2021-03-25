@@ -56,7 +56,8 @@ position: relative;
     font-family: 'Noto Sans TC', sans-serif;
   margin-top: 593px;
   margin-left: 130px;
-  color:black;
+  font-size: 50
+  color:green;
 }
 
 h2 {
