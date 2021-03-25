@@ -121,11 +121,11 @@ nav.dms div a:hover{
 
 
 .yy1{
-  background-color: rgba(0,249,0,0.02);
+  background-color: rgba(249,249,249,0.3);
   opacity: 1;
   overflow: hidden;
   float: right;
-  color: white;
+  color: black;
   text-align: left;
   padding:35px 55px;
   text-decoration: none;
@@ -143,7 +143,7 @@ nav.dms div a:hover{
 
 
 .yy2{
-  background-color: rgba(0,249,0,0.03);
+  background-color: rgba(0,249,0,0.02);
   opacity: 1;
   overflow: hidden;
   float: right;
