@@ -92,7 +92,7 @@ nav.dms div a:hover{
    border-radius: 50px;
 }
 .dms a:hover {
-  background-color: white,0.1);
+  background-color: rgba(249,249,249,0.1);
   color: blue;
   opacity: 0.6;
   font-size: 35px;
