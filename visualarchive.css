@@ -1,0 +1,147 @@
+
+body {
+  background-color: white;
+  background-image:url("image/wall3.png");
+  background-size: cover;
+  }
+
+  .erhai{
+  left: 900px;
+  top: 400px;
+  position:fixed;
+  z-index: 0;
+  }
+
+  .intro {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 18px;
+  margin-top: 70px;
+  margin-left: 90px;
+  line-height: 1.4;
+  position: relative;
+  z-index: 12;
+  color: blue,0.8;
+}
+
+h1 {
+    font-family: 'Noto Sans TC', sans-serif;
+    margin-top: 2px;
+    margin-left: 80px;
+    z-index: auto;
+    color:blue;
+    position:fixed;
+  }
+
+
+.about{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size:  28px;
+    max-width: 980px;
+    margin-top: 80px;
+    margin-left: 90px;
+    color: #303fd8；
+    line-height: 1.4;
+}
+
+h3 {
+  color:blue;
+  font-size: 20px;
+}
+
+
+
+/* NAVIGATION */
+  nav.dms {
+  font-family: 'Noto Sans TC', sans-serif;
+  margin-top: 50px;
+  margin-left: 1230px;
+  font-size: 50px;
+  top: 0;
+  position: fixed;
+  z-index: 30;
+  opacity:1;
+  line-height: 1;
+   width:530px;
+   background-color: rgba(249,249,249,0)
+}
+nav.dms div a{
+  opacity:0.6;
+  width: 400px;
+}
+nav.dms div a:hover{
+  opacity:1.5;
+  width: 200px;
+}
+
+
+
+.dms{
+  background-color: rgba(249,249,249,0.3);
+  opacity: 1;
+  overflow: hidden;
+
+}
+.dms a {
+  float: right;
+  color: blue;
+  text-align: center;
+  padding:42px 55px;
+  text-decoration: none;
+  font-size: 30px;
+  border: 0.1px solid blue;
+   border-radius: 50px;
+}
+.dms a:hover {
+  background-color: rgba(249,249,249,0.6);
+  color: blue;
+  opacity: 0.6;
+  font-size: 35px;
+}
+
+/* NAVIGATION */
+  nav.love {
+  font-family: 'Noto Sans TC', sans-serif;
+  margin-top: 50px;
+  margin-left: 330px;
+  font-size: 50px;
+  top: 0;
+  position: fixed;
+  z-index: 30;
+  opacity:1;
+  line-height: 1;
+   width:530px;
+   background-color: rgba(249,249,249,0)
+}
+nav.love  div a{
+  opacity:0.6;
+  width: 400px;
+}
+nav.love  div a:hover{
+  opacity:1.5;
+  width: 200px;
+}
+
+
+
+.love {
+  background-color: rgba(249,249,249,0.3);
+  opacity: 1;
+  overflow: hidden;
+
+}
+.love  a {
+  float: right;
+  color: blue;
+  text-align: center;
+  padding:42px 55px;
+  text-decoration: none;
+  font-size: 30px;
+  border: 0.1px solid blue;
+   border-radius: 50px;
+}
+.love  a:hover {
+  background-color: rgba(249,249,249,0.6);
+  color: blue;
+  opacity: 0.6;
+  font-size: 35px;
+}
