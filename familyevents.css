@@ -116,14 +116,7 @@ nav.dms div a:hover{
 
 }
 
-.yy div a{
-  opacity:0.6;
-  width: 400px;
-}
-.yy div a:hover{
-  opacity:1.5;
-  width: 200px;
-}
+
 
 .yy{
   background-color: rgba(249,249,249,0.3);
@@ -135,7 +128,7 @@ nav.dms div a:hover{
   padding:35px 55px;
   text-decoration: none;
   font-size: 25px;
-  border: 0.1px solid blue,0.3;
+  border: 0.1px solid blue,0.;
    border-radius: 50px;
 }
 .yy a:hover {
