@@ -113,22 +113,22 @@ nav.dms div a:hover{
    width:530px;
    background-color: rgba(249,249,249,0)
 }
-a.schedule  div a{
+a.love  div a{
   opacity:0.6;
   width: 400px;
 }
-a.schedule div a:hover{
+a.love div a:hover{
   opacity:1.5;
   width: 200px;
 }
 
-.schedule{
+.love{
   background-color: rgba(249,249,249,0.3);
   opacity: 1;
   overflow: hidden;
 
 }
-.schedule a {
+.love a {
   float: right;
   color: blue;
   text-align: center;
@@ -138,13 +138,13 @@ a.schedule div a:hover{
   border: 0.1px solid blue;
    border-radius: 50px;
 }
-.schedule a:hover {
+.love a:hover {
   background-color: rgba(249,249,249,0.6);
   color: blue;
   opacity: 0.6;
   font-size: 35px;
 }
 
-.schedule a:hover {
+.love a:hover {
   border: 0.1px solid blue;
 }
