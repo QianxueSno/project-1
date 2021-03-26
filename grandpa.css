@@ -42,26 +42,50 @@ h2 {
 }
 
 
+
 /* NAVIGATION */
-  nav.dms {  margin-top: 50px;
-    margin-left: 1280px;
-    font-size: 50px;
-    top: 0;
-    position: fixed;
-    z-index: 30;
-    opacity:1;
-    line-height: 0.1;
+  nav.dms {
+  font-family: 'Noto Sans TC', sans-serif;
+  margin-top: 50px;
+  margin-left: 1230px;
+  font-size: 50px;
+  top: 0;
+  position: fixed;
+  z-index: 30;
+  opacity:1;
+  line-height: 1;
+   width:530px;
+   background-color: rgba(249,249,249,0)
 }
 nav div a{
-  opacity:0.8;
+  opacity:0.6;
+  width: 400px;
 }
 nav div a:hover{
-  opacity:1;
+  opacity:1.5;
+  width: 200px;
 }
 
-.yeye {
-  marmargin-left: auto;
-  position: relative;
-  margin-left: 500px;
-  margin-top:150px;
+.dms{
+  background-color: rgba(249,249,249,0.3);
+  opacity: 1;
+  overflow: hidden;
+
+}
+.dms a {
+  float: right;
+  color: white;
+  text-align: center;
+  padding:42px 55px;
+  text-decoration: none;
+  font-size: 30px;
+  border: 0.1px solid white;
+   border-radius: 50px;
+}
+.dms a:hover {
+  background-color: rgba(249,249,249,0.6);
+  color: blue;
+  opacity: 0.6;
+  font-size: 35px;
+  border: 0.1px solid white;
 }
