@@ -57,15 +57,20 @@ position: relative;
   margin-top: 593px;
   margin-left: 130px;
   font-size: 50px;
-color:rgb(0, 107, 49);
-}
+  color:rgb(0, 107, 49);
+  }
 
-h2 {
-font-family: 'Noto Sans TC', sans-serif;
-color:black;
-}
+  h2 {
+    font-family: 'Noto Sans TC', sans-serif;
+    color:black;
+  }
 
-
+  p{
+  font-family: 'Noto Sans TC', sans-serif;
+  color: blue;
+  margin:auto;
+  font-size: 20px;
+  }
 
 /* NAVIGATION */
   nav.dms {
