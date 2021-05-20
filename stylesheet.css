@@ -14,7 +14,7 @@
 
 body {
   background-color: white;
-  background-image:url("image/wall3.png");
+  background-image:url("https://live.staticflickr.com/65535/51174534295_d6d4dbe7c8_k.jpg");
   background-size: cover;
   }
 
@@ -116,4 +116,20 @@ nav div a:hover{
 
 .famhis a:hover {
   border: 0.1px solid blue;
+}
+
+
+.eye2{
+	display: block;
+  margin-left: auto;
+	top: 920px;
+	width: 100px;
+	left: 1048px;
+	position:fixed;
+	transition: transform 1.2s ease-in-out;
+	z-index: 100;
+}
+
+.eye2:hover{
+	 transform: rotate(360deg);
 }
